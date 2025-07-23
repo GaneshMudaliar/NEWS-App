@@ -11,4 +11,3 @@ A fast and responsive News App built with **React** and **Vite**, fetching real-
 - Dark mode (optional)
 - Loading and error handling
 
-- 
